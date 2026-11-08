@@ -1,5 +1,8 @@
 # PointNet-Based Robust Semantic Segmentation of Concrete Defects
 
+## Proposed Research Title
+**_Robustness Evaluation and Improvement of PointNet for Semantic Segmentation of Concrete Surface Defects Using 3D Point Clouds_**.
+
 ## Problem Statement
 Deep learning-based segmentation of concrete defects using 3D point clouds may be sensitive to measurement noise, missing points, occlusion and variations in point density. These challenges can reduce the reliability of automated crack and spalling identification, particularly when models are applied to previously unseen bridges.
 
